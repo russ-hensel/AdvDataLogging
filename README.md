@@ -8,6 +8,11 @@ Enviroment: Program should run on any OS supporting Python 3.6.  This should inc
 Program Status: Seems to be fine, done.  Could be extended, let me know as I use this code in several other projects of mine.
 
 
+Project Archive at: https://github.com/russ-hensel/AdvDataLogging
+    
+Instructables Link:  Experiments in Advanced Data Logging ( Using Python ): 11 Steps
+                        https://www.instructables.com/id/Experiments-in-Advanced-Data-Logging-Using-Python-/  
+
 ``` 
 	Standard Disclaimer:
 		If you have more than a casual interest in this project you should contact me 

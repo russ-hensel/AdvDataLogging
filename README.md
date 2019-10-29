@@ -3,10 +3,15 @@ Experiments in Data Logging
 
 Purpose: Python code to let you experiment with signals and noise to see the effect of various techniques used in data logging.  Originally published on Instructables, this is a minor update to Python 3.6 and a posting here to make the matarial easier to view and download.
 
-Enviroment: Program should run on any OS supporting Python 3.6.  This should include Windows, Mac, Linux, and Raspberry Pi.  So far only tested on Windows.  More coming... 
+Enviroment: Program should run on any OS supporting Python 3.6.  This should include Windows, Mac, Linux, and Raspberry Pi.  So far only tested on Windows.
 
 Program Status: Seems to be fine, done.  Could be extended, let me know as I use this code in several other projects of mine.
 
+
+Project Archive at: https://github.com/russ-hensel/AdvDataLogging
+    
+Instructables Link:  Experiments in Advanced Data Logging ( Using Python ): 11 Steps
+                        https://www.instructables.com/id/Experiments-in-Advanced-Data-Logging-Using-Python-/  
 
 ``` 
 	Standard Disclaimer:
